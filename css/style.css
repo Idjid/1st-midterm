@@ -1,0 +1,21 @@
+.flex-container {
+  display: flex;
+}
+.gray-back {
+  background-color: #a29d96;
+  color: white;
+}
+.no-dots {
+  list-style-type: none;
+}
+.padding-for-text {
+  padding-left: 20px;
+  padding-right: 20px;
+}
+.margin-for-whole {
+  margin-left: 0;
+  margin-right: 0;
+}
+.no-padding {
+  padding: 0;
+}
